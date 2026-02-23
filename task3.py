@@ -40,4 +40,3 @@ print(type(f))
 f = float(f)
 print(type(f))
 
-
